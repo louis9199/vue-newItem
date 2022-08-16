@@ -1,0 +1,205 @@
+{
+  "id": "373132",
+  "name": "餐饮管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15904087",
+      "name": "手指",
+      "font_class": "shouzhi2",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "17084649",
+      "name": "暂无数据",
+      "font_class": "zanwushuju-Chrome-copy",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "6534619",
+      "name": "修 改",
+      "font_class": "xiugai",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "19261720",
+      "name": "批量删除 ",
+      "font_class": "shanchu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "6932670",
+      "name": "推荐",
+      "font_class": "tuijian2",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2996990",
+      "name": "加号",
+      "font_class": "plus",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "10467859",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "402971",
+      "name": "热菜",
+      "font_class": "recai",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "587353",
+      "name": "后台",
+      "font_class": "houtai",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "938821",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1092383",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "3996498",
+      "name": "下单",
+      "font_class": "xiadan",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "5188617",
+      "name": "座位-可选",
+      "font_class": "zuowei-kexuan",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "6642130",
+      "name": "煲汤",
+      "font_class": "baotang",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "6777463",
+      "name": "首页-选中",
+      "font_class": "index",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7140894",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7713085",
+      "name": "餐具",
+      "font_class": "canju",
+      "unicode": "e88d",
+      "unicode_decimal": 59533
+    },
+    {
+      "icon_id": "7819992",
+      "name": "主食 copy 2",
+      "font_class": "zhushicopy",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "8121332",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "10193023",
+      "name": "点菜单icon",
+      "font_class": "diancaidanicon",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "11252768",
+      "name": "甜品屋",
+      "font_class": "lujing",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "14553057",
+      "name": "向右剪头",
+      "font_class": "wx-yjt",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15724718",
+      "name": "加号",
+      "font_class": "hao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "17476826",
+      "name": "菜品设置",
+      "font_class": "caipinshezhi",
+      "unicode": "ee58",
+      "unicode_decimal": 61016
+    },
+    {
+      "icon_id": "17705492",
+      "name": "减号",
+      "font_class": "-hao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "18524083",
+      "name": "分类",
+      "font_class": "category01",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "20095682",
+      "name": "购物车",
+      "font_class": "che-copy",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "20967011",
+      "name": "桌子",
+      "font_class": "ziyuan20",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
